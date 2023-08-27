@@ -15,8 +15,7 @@ npm run dev
 
 
 ### :rocket:Glimpse :dizzy::dizzy:<br><br>
-![Screenshot (163)](https://github.com/pravinargade18/movix-app/assets/85402377/11edc835-8e81-416e-b2fd-c97a01a94ebe)
-
+![Screenshot (163)](https://github.com/juman101/jacksmovie/blob/master/Screenshot%20(86).png).
 ![Screenshot (153)](https://github.com/pravinargade18/movix-app/assets/85402377/bc21630e-b092-41e3-b4be-c9e7f7f8b3cc)
 
 ![Screenshot (162)](https://github.com/pravinargade18/movix-app/assets/85402377/26ee624d-34c7-47a0-b1dc-bb65f31f8726)
