@@ -1,6 +1,9 @@
+
 # movix-app
 
-# Website - <em>[Movix](https://movix-net.vercel.app/)</em>
+# Website - [MoviFlix](https://lucent-youtiao-42d69a.netlify.app/)
+
+
 ### How to Run Locally
 Run the below command to clone the repo locally
 ```
@@ -14,15 +17,43 @@ npm run dev
 ```
 
 
-### :rocket:Glimpse :dizzy::dizzy:<br><br>
-![Screenshot (163)](https://github.com/juman101/jacksmovie/blob/master/Screenshot%20(86).png).
-![Screenshot (153)](https://github.com/pravinargade18/movix-app/assets/85402377/bc21630e-b092-41e3-b4be-c9e7f7f8b3cc)
+### Glimpse :
 
-![Screenshot (162)](https://github.com/pravinargade18/movix-app/assets/85402377/26ee624d-34c7-47a0-b1dc-bb65f31f8726)
-![Screenshot (160)](https://github.com/pravinargade18/movix-app/assets/85402377/ccd58175-53ba-46e0-a124-94a2f8b2416c)
 
-![Screenshot (161)](https://github.com/pravinargade18/movix-app/assets/85402377/41a2cc58-3097-444c-80de-57aba8d8e408)
-![Screenshot (157)](https://github.com/pravinargade18/movix-app/assets/85402377/683c2b2b-d12d-448e-a3a6-03a8462d28b8)
-![Screenshot (156)](https://github.com/pravinargade18/movix-app/assets/85402377/9452bfd3-80a6-4cd6-b693-3b6c89f7193b)
-![Screenshot 2023-08-07 235657](https://github.com/pravinargade18/movix-app/assets/85402377/d2f4899a-633b-43b2-8678-803b36844829)
+## Home Page
+
+![App Screenshot](https://github.com/juman101/jacksmovie/blob/master/screenshotdemo/WhatsApp%20Image%202023-08-27%20at%2011.27.19%20(1).jpeg?raw=true)
+
+
+
+
+##  Genres / Categories / sort
+
+#### One can sort according to genre as well as popularity , release date ,etc.
+![App Screenshot](https://github.com/juman101/jacksmovie/blob/master/screenshotdemo/WhatsApp%20Image%202023-08-27%20at%2011.27.22.jpeg?raw=true)
+
+![App Screenshot](https://github.com/juman101/jacksmovie/blob/master/screenshotdemo/WhatsApp%20Image%202023-08-27%20at%2011.27.22%20(1).jpeg?raw=true)
+
+
+## Movie Details
+
+#### All sorts of info regarding movie such as cast , ratings , official videos .
+![App Screenshot](https://github.com/juman101/jacksmovie/blob/master/screenshotdemo/WhatsApp%20Image%202023-08-27%20at%2011.27.19.jpeg?raw=true)
+
+
+![App Screenshot](https://github.com/juman101/jacksmovie/blob/master/screenshotdemo/WhatsApp%20Image%202023-08-27%20at%2011.27.20.jpeg?raw=true)
+
+## Trailer 
+
+####  Trailer of movies  can be played 
+
+![App Screenshot](https://github.com/juman101/jacksmovie/blob/master/screenshotdemo/WhatsApp%20Image%202023-08-27%20at%2011.27.21.jpeg?raw=true)
+
+
+
+
+
+## Authors
+
+- [JUMAN DAS](https://www.linkedin.com/in/juman-das-0aa162218/)
 
