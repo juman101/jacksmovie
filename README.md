@@ -4,7 +4,7 @@
 ### How to Run Locally
 Run the below command to clone the repo locally
 ```
-git clone https://github.com/pravinargade18/movix-app.git
+git clone https://github.com/juman101/jacksmovie.git
 ``` 
 
 ### To run the application, run below commands 
